@@ -1,0 +1,6 @@
+{
+  "name": "Cadence",
+  "description": "Expressive text-to-speech studio for turning scripts into spoken audio across distinct voices and delivery styles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
